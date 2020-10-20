@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [Rules](rules.md)
+* [Rules](https://github.com/bradleyrf/100-days-of-code/blob/master/rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
